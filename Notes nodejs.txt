@@ -2,3 +2,10 @@
 -- npm install express
 -- create app.js
 -- npm init   --will add package.js
+
+---
+commiting code to git
+1. git remote add origin https://github.com/gkathani123/nodejsapp.git
+2. git branch -M master
+3. git push -u origin master
+
