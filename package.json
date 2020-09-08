@@ -1,0 +1,23 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkathani123/nodejsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkathani123/nodejsapp/issues"
+  },
+  "homepage": "https://github.com/gkathani123/nodejsapp#readme"
+}

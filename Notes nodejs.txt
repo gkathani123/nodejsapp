@@ -1,0 +1,4 @@
+-- open the folder in code
+-- npm install express
+-- create app.js
+-- npm init   --will add package.js
